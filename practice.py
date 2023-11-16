@@ -1,3 +1,4 @@
+# Question 1
 # class Animal:
 #     def speak(self):
 #         print("Animal speaks")
@@ -11,6 +12,8 @@
 
 # dog = Dog()
 # dog.speak()
+
+#Question 2
 
 class Shape:
     def __init__(self, width=0, height=0):
